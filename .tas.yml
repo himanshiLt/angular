@@ -11,4 +11,3 @@ preRun:
 postRun:
   - node --version
 configFile: './aio/karma.conf.js'
-version: 1.0
